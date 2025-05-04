@@ -1,0 +1,16 @@
+D:\College\大一\C++\OrderSystemWinForms\OrderSystemWinForms\obj\Debug\OrderSystemWinForms.csproj.AssemblyReference.cache
+D:\College\大一\C++\OrderSystemWinForms\OrderSystemWinForms\obj\Debug\OrderSystemWinForms.FormCustomer.resources
+D:\College\大一\C++\OrderSystemWinForms\OrderSystemWinForms\obj\Debug\OrderSystemWinForms.FormMain.resources
+D:\College\大一\C++\OrderSystemWinForms\OrderSystemWinForms\obj\Debug\OrderSystemWinForms.Properties.Resources.resources
+D:\College\大一\C++\OrderSystemWinForms\OrderSystemWinForms\obj\Debug\OrderSystemWinForms.csproj.GenerateResource.cache
+D:\College\大一\C++\OrderSystemWinForms\OrderSystemWinForms\obj\Debug\OrderSystemWinForms.csproj.CoreCompileInputs.cache
+D:\College\大一\C++\OrderSystemWinForms\OrderSystemWinForms\bin\Debug\OrderSystemWinForms.exe.config
+D:\College\大一\C++\OrderSystemWinForms\OrderSystemWinForms\bin\Debug\OrderSystemWinForms.exe
+D:\College\大一\C++\OrderSystemWinForms\OrderSystemWinForms\bin\Debug\OrderSystemWinForms.pdb
+D:\College\大一\C++\OrderSystemWinForms\OrderSystemWinForms\obj\Debug\OrderSystemWinForms.exe
+D:\College\大一\C++\OrderSystemWinForms\OrderSystemWinForms\obj\Debug\OrderSystemWinForms.pdb
+D:\College\大一\C++\OrderSystemWinForms\OrderSystemWinForms\obj\Debug\OrderSystemWinForms.FormAdmin.resources
+D:\College\大一\C++\OrderSystemWinForms\OrderSystemWinForms\bin\Debug\OrderSystemWinForms.exe.manifest
+D:\College\大一\C++\OrderSystemWinForms\OrderSystemWinForms\bin\Debug\OrderSystemWinForms.application
+D:\College\大一\C++\OrderSystemWinForms\OrderSystemWinForms\obj\Debug\OrderSystemWinForms.exe.manifest
+D:\College\大一\C++\OrderSystemWinForms\OrderSystemWinForms\obj\Debug\OrderSystemWinForms.application
